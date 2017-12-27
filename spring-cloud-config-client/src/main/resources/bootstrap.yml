@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    config:
+      uri: http://127.0.0.1:8765
+      profile: ${config.profile:dev}
+      label: master
+  application:
+    name: config-demo
