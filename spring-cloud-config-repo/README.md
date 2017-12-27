@@ -1,2 +1,2 @@
-# spring-cloud-study
-spring cloud 学习用例库
+# spring-cloud-config-repo
+spring cloud config 配置仓库
